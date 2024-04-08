@@ -26,3 +26,11 @@ consultants the possibility to show how easy it would be to gain unauthorized ac
 
 
 Burp is an essential offensive security tool. It is used by a majority of professionals (including us pentesters) and is dedicated mainly to pentesting web applications.
+
+## Kerbrute
+
+<img width="146" alt="image" src="https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/bacb4598-0eca-44e4-80ad-7a7ec65ad211">
+
+Kerbrute is a tool used to enumerate valid Active directory user accounts that using kerrberos pre-authentication. Also, this tool can be used to password attacks such as password bruteforce, username enumeration, password spray etc. This tool is being used for many years by penetration testers during
+internal penetration testing engagements. This tool is originally written by Ronnie Flathers (ropnop)
+with contributor Alex Flores.
