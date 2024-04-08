@@ -9,6 +9,6 @@ In Nmap, a pentester can easily make use of alternate host discovery techniques 
 
 ## Wfuzz
 
-![image](https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/a70e41ce-233c-41c1-af9a-1947e95005f9)
+<img width="172" alt="image" src="https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/e6284acc-58fb-4365-9ac2-affd0f024129">
 
 Many tools have been developed that create an HTTP request and allow a user to modify their contents. Fuzzing works the same way. A user can send a similar request multiple times to the server with a certain section of the request changed. When that certain section is replaced by a variable from a list or directory, it is called fuzzing.
