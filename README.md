@@ -1,4 +1,4 @@
-# Kali linux Tools for Penetration Testing
+# Kali Linux Tools for Penetration Testing
 
 ## Nmap
 
