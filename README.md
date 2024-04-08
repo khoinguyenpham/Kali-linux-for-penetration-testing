@@ -7,6 +7,12 @@
 Nmap has become one of the most popular tools in network scanning by leaving other scanners behind. Many times, the hosts in some organisations are secured using firewalls or intrusion prevention systems which result in the failure of scanning due to the present set of rules which are used to block network traffic.
 In Nmap, a pentester can easily make use of alternate host discovery techniques to prevent this from happening. It consists of certain features that make the network traffic a little less suspicious. Hence, in this report, various techniques of Host Discovery will be explored.
 
+## Metasploit
+
+<img width="128" alt="image" src="https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/71fbcb96-c48b-495f-92bb-9cf57fa2e6ea">
+
+Metasploit is the world's leading open-source penetrating framework used by security engineers as a penetration testing system and a development platform that allows to create security tools and exploits.
+
 ## Wfuzz
 
 <img width="172" alt="image" src="https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/e6284acc-58fb-4365-9ac2-affd0f024129">
