@@ -12,3 +12,10 @@ In Nmap, a pentester can easily make use of alternate host discovery techniques 
 <img width="172" alt="image" src="https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/e6284acc-58fb-4365-9ac2-affd0f024129">
 
 Many tools have been developed that create an HTTP request and allow a user to modify their contents. Fuzzing works the same way. A user can send a similar request multiple times to the server with a certain section of the request changed. When that certain section is replaced by a variable from a list or directory, it is called fuzzing.
+
+## Hydra
+
+<img width="155" alt="image" src="https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/414062fa-a5e5-4e0a-b0d2-3eb904f81520">
+
+Hydra - a very fast network logon cracker which supports many different services. It is a parallelized login cracker which supports numerous protocols to attack. New modules are easy to add, besides that, it is flexible and very fast. This tool gives researchers and security
+consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
