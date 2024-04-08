@@ -19,3 +19,10 @@ Many tools have been developed that create an HTTP request and allow a user to m
 
 Hydra - a very fast network logon cracker which supports many different services. It is a parallelized login cracker which supports numerous protocols to attack. New modules are easy to add, besides that, it is flexible and very fast. This tool gives researchers and security
 consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
+
+## Burp Suite
+
+![image](https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/9cdb5893-e70d-4cfb-8c2d-3f2b838cf4ac)
+
+
+Burp is an essential offensive security tool. It is used by a majority of professionals (including us pentesters) and is dedicated mainly to pentesting web applications.
