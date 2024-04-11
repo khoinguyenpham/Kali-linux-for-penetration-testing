@@ -40,3 +40,8 @@ Burp is an essential offensive security tool. It is used by a majority of profes
 Kerbrute is a tool used to enumerate valid Active directory user accounts that using kerrberos pre-authentication. Also, this tool can be used to password attacks such as password bruteforce, username enumeration, password spray etc. This tool is being used for many years by penetration testers during
 internal penetration testing engagements. This tool is originally written by Ronnie Flathers (ropnop)
 with contributor Alex Flores.
+
+## Netcat
+ ![image](https://github.com/khoinguyenpham/Kali-linux-for-penetration-testing/assets/108651467/cfdb45ff-45e8-42c3-9257-85e115ad1f2d)
+
+Netcat technically used as “nc” – is a network utility that uses the TCP and UDP connections in order to read and write in a network. It can be used by both the attackers and the security auditors.
